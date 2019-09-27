@@ -1,0 +1,20 @@
+
+Total number of keys: 0
+
+Total number of plaintexts: 0
+
+Average number keys per plaintext that yield collision: -nan
+
+Number of colliding pairs: 0
+
+
+DONE!!
+
+System name - CYGWIN_NT-10.0-18362 
+Nodename    - DESKTOP-N3GJ72R 
+Release     - 3.0.7-338.x86_64 
+Version     - 2019-04-30 18:08 UTC 
+Machine     - x86_64 
+
+CPU Time : 260.094000 seconds
+Wall Time: 260.000000 seconds
